@@ -8,4 +8,5 @@ This force-directed network visualizes the linkage between differentially expres
 
 ### 2. Pathway Enrichment Analysis
 The dotplot below summarizes the top 10 most significant biological processes, illustrating the gene ratio and statistical significance (p.adjust) for each pathway.
+
 ![Pathway Dotplot](Pathway_Dotplot.png)
